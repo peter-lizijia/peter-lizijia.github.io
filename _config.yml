@@ -12,9 +12,12 @@ description: Personal homepage of Zijia Li, an MSE student at the University of 
 canonical: https://peter-lizijia.github.io/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Leave a field blank if it is not ready yet.
+google_scholar:
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/peter-lizijia
+linkedin:
+twitter:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
