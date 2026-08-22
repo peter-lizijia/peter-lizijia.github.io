@@ -4,27 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am an MSE student in Systems Engineering at the University of Pennsylvania, where I am a master's student member of the Generative Machine Learning Research (GMLR) Lab working with Prof. Jiatao Gu. My current work centers on generative world models, with a broader interest in how learned representations and generative dynamics can support planning and embodied intelligence.
+I am an MSE student in Data Science at the University of Pennsylvania. I am also a master's student in the Generative Machine Learning Research (GMLR) Lab, where I work with Prof. Jiatao Gu. My current research focuses on generative world models, particularly how learned latent representations and generative dynamics can support planning and decision-making in embodied agents.
 
 I am currently applying for Ph.D. programs starting in **Fall 2027**. I hope to pursue research at the intersection of world models, embodied AI, and generative modeling.
 
 ## Research Interests
 
-- **World Models & Embodied AI:** JEPA-style representation learning, latent dynamics, and model-based planning
-- **Generative Models:** diffusion models, flow matching, and efficient generative learning
-- **Foundations of Machine Learning:** mathematical and theoretical perspectives on representation and generative modeling
+- **World Models & Embodied AI:** representation learning, latent dynamics, and model-based planning
+- **Generative Models:** flow matching, diffusion models, and generative learning
+- **Foundations of Machine Learning:** mathematical perspectives on representation, uncertainty, and generative modeling
 
 ## Education
 
-- **University of Pennsylvania**, MSE in Systems Engineering, 2025-2027 (expected)
+- **University of Pennsylvania**, MSE in Data Science, 2025-2027 (expected)
 - **University of Nottingham / University of Nottingham Ningbo China**, B.S. in Mathematics with Applied Mathematics, 2021-2025
 
 ## Research Experience
 
 - **Master's Student, GMLR Lab, University of Pennsylvania**  
-  Exploring generative world models, including JEPA-style representations, generative formulations for planning, and evaluation on robotic and navigation tasks.
+  Developing generative world models with flow-based latent representations. My work explores generative extensions of JEPA-style models, multimodal future prediction, and planning under uncertainty through latent rollouts and learned value functions.
 - **Research Assistant, Intelligent Computing and System Lab, Zhejiang University**  
-  Studied flow matching and parallel sampling methods for diffusion models.
+  Investigated flow matching and parallel sampling methods for diffusion models, with an emphasis on probability paths and efficient generation.
 - **Research Assistant / Intern, University of Nottingham and Northwestern University**  
   Worked on PINNs for wave equations, diffusion-model fine-tuning, and Transformer-based in-context learning.
 
