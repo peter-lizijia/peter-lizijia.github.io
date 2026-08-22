@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an MSE student in Data Science at the University of Pennsylvania. I am also a master's student in the Generative Machine Learning Research (GMLR) Lab, part of Penn's GRASP Laboratory, where I work with Prof. Jiatao Gu. My current research focuses on generative world models, particularly how learned latent representations and generative dynamics can support planning and decision-making in embodied agents.
+I am an MSE student in Data Science at the University of Pennsylvania. I am also a master's student with the Generative Machine Learning Research (GMLR) Lab at Penn's GRASP Laboratory, where I work with Prof. Jiatao Gu. My current research focuses on generative world models, particularly how learned latent representations and generative dynamics can support planning and decision-making in embodied agents.
 
 I am currently applying for Ph.D. programs starting in **Fall 2027**. I hope to pursue research at the intersection of world models, embodied AI, and generative modeling.
 
@@ -21,7 +21,7 @@ I am currently applying for Ph.D. programs starting in **Fall 2027**. I hope to 
 
 ## Research Experience
 
-- **Master's Student, GMLR Lab, GRASP Laboratory, University of Pennsylvania**  
+- **Master's Student, GMLR, Penn GRASP Laboratory**  
   Developing generative world models with flow-based latent representations. My work explores generative extensions of JEPA-style models, multimodal future prediction, and planning under uncertainty through latent rollouts and learned value functions.
 - **Research Assistant, Intelligent Computing and System Lab, Zhejiang University**  
   Investigated flow matching and parallel sampling methods for diffusion models, with an emphasis on probability paths and efficient generation.
