@@ -5,3 +5,7 @@ Gemfile.lock
 .DS_Store
 .jekyll-cache
 git-update.sh
+node_modules/
+.preview/
+images/originals/
+pdfs/private/

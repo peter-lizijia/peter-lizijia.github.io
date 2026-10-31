@@ -1,0 +1,28 @@
+[
+  {
+    "id": "nfwm",
+    "title": "Normalizing Flows are Capable World Models",
+    "authors": "Zijia Li*, Yong-Hyun Park*, Shusheng Yang, Jiatao Gu",
+    "year": 2026,
+    "venue": "CoRL 2026 LEAP Workshop",
+    "venueShort": "CoRL 2026 LEAP Workshop",
+    "type": "Workshop",
+    "featured": true,
+    "note": "Workshop version accepted. Full manuscript under review. * Equal contribution.",
+    "tags": [
+      "world-models",
+      "representation-learning"
+    ],
+    "keywords": [
+      "world-models",
+      "representation-learning",
+      "normalizing-flows",
+      "planning",
+      "policy-learning",
+      "generative-modeling",
+      "probabilistic-dynamics"
+    ],
+    "abstract": "NFWM jointly learns an invertible visual encoder and action-conditioned probabilistic dynamics through exact maximum likelihood. The model supports latent-space planning, policy learning in imagination, and observation generation, using information-preserving representations and distributions over possible futures.",
+    "links": []
+  }
+]

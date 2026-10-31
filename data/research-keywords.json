@@ -1,0 +1,54 @@
+{
+  "keywords": [
+    {
+      "slug": "world-models",
+      "label": "World Models",
+      "group": "vision",
+      "highlight": true,
+      "order": 1
+    },
+    {
+      "slug": "representation-learning",
+      "label": "Representation Learning",
+      "group": "vision",
+      "highlight": true,
+      "order": 2
+    },
+    {
+      "slug": "normalizing-flows",
+      "label": "Normalizing Flows",
+      "group": "robotics",
+      "highlight": true,
+      "order": 3
+    },
+    {
+      "slug": "planning",
+      "label": "Planning",
+      "group": "robotics",
+      "highlight": false,
+      "order": 4
+    },
+    {
+      "slug": "policy-learning",
+      "label": "Policy Learning",
+      "group": "robotics",
+      "highlight": false,
+      "order": 5
+    },
+    {
+      "slug": "generative-modeling",
+      "label": "Generative Modeling",
+      "group": "generalization",
+      "highlight": false,
+      "order": 6
+    },
+    {
+      "slug": "probabilistic-dynamics",
+      "label": "Probabilistic Dynamics",
+      "group": "systems",
+      "highlight": false,
+      "order": 7
+    }
+  ],
+  "papers": {}
+}
