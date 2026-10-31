@@ -6,7 +6,7 @@ Static HTML, CSS, and JavaScript, adapted from [Ruiyu Wang's academic portfolio 
 
 ## Editing
 
-- `index.html`: homepage, biography, experience, education, projects, and honors.
+- `index.html`: homepage, biography, experience, education, and honors.
 - `data/site-content.json`: shared text and local editor content. Keep the matching `data-editable` text in HTML in sync so the site also works without JavaScript.
 - `data/publications.json`: publication metadata. Add public paper, project, or code URLs to the `links` array when available.
 - `data/research-keywords.json`: keyword labels and groups.

@@ -6,6 +6,9 @@
 .hero-section { padding-top: 40px; }
 .quick-stats strong { font-size: 18px; }
 .quick-stats div { min-width: 0; box-shadow: none; }
+.quick-stats .phd-opportunity { border: 2px solid #dc2626; background: #fff7f7; }
+.phd-opportunity span, .phd-opportunity strong { color: #991b1b; }
+.site-footer { justify-content: flex-end; }
 .section-link { color: #fff !important; }
 .section-link:hover { background: #1d4ed8; }
 .research-intro { margin: 14px 0 0; color: var(--muted); font-size: 15px; }
