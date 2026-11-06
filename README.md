@@ -12,6 +12,7 @@ Static HTML, CSS, and JavaScript, adapted from [Ruiyu Wang's academic portfolio 
 - `data/research-keywords.json`: keyword labels and groups.
 - `css/portfolio.css`: template styling; `css/profile.css`: personal layout adjustments.
 - `favicon.svg`: the L favicon; `assets/img/avatar.png`: the portrait.
+- `assets/img/institutions/`: transparent institution logos used in research experience and education; see `SOURCES.md` in that directory for provenance.
 - `pdfs/Zijia_Li_CV.pdf`: downloadable CV; `images/cv-pages/cv-1.png`: its rendered preview. Refresh both when replacing the CV. Older PDF URLs in `assets/files/` are retained for existing links.
 
 Life and Blog pages are empty and their navigation links are commented out. Services is reserved in an HTML comment. The publication entry currently states workshop acceptance and full-manuscript review separately; update its status only when confirmed.
